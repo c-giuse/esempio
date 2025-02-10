@@ -1,0 +1,3 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/negozio?createDatabaseIfNotExist=true&autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false
+
+Questa riga non piace a molti ma io la trovo utile quindi sti gran cazzi ;)

@@ -1,0 +1,17 @@
+[
+  {
+    "id":1,
+    "name":"Ipad",
+    "prezzo":600
+  },
+  {
+    "id":2,
+    "name":"Macbook",
+    "prezzo":1200
+  },
+  {
+    "id":3,
+    "name":"Elitebook",
+    "prezzo":1700
+  }
+]
